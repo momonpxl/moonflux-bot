@@ -1,0 +1,16 @@
+{
+  "ownerNumber": "6283895513613",
+  "botName": "MoonFlux Bot 🌙",
+  "prefix": [
+    "!",
+    ".",
+    "/"
+  ],
+  "autoReadMessages": true,
+  "selfCommands": true,
+  "autoAudioOnMenu": true,
+  "menuAudioFile": "welcome.mp3",
+  "startTime": 1768565495054,
+  "autoWelcomeMsg": true,
+  "autoLeaveMsg": true
+}
